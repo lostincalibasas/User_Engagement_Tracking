@@ -9,5 +9,16 @@ we have the following information:
 ## Hypothesis
 The first half of 2022 was expected to be profitable for the company. The reason was the hypothesized increased student engagement after the release of several new features on the company’s website at end-2021. These include enrolling in career tracks and testing your knowledge through practice, course, and career track exams. Of course, we have also expanded our course library to increase user engagement and the platform’s audience as more topics are covered. By comparing different metrics, we can measure the effectiveness of these new features and the overall engagement of our users.
 
-Guidelines: Every data scientist has their preferred methodology. Two data scientists solving a task may obtain the same result using different tools. This implies that throughout this project, analyzing the data correctly and extracting meaningful results is more important than your approach.
-Nevertheless, we provide optional guidance with the tools taught in the courses from the Data Science career track.
+## Key Tasks
+- Part1 : Data Preparation with SQL – Creating a View
+- Part 2: Data Preparation with SQL – Splitting Into Periods
+- Part 3: Data Preparation with SQL – Certificates Issued
+- Part 4: Data Preprocessing with Python – Removing Outliers
+- Part 5: Data Analysis with Excel – Hypothesis Testing
+- Part 6: Data Analysis with Excel – Correlation Coefficients
+- Part 7: Dependencies and Probabilities
+- Part 8: Data Prediction with Python
+
+## Guidelines
+Every data scientist has their preferred methodology. Two data scientists solving a task may obtain the same result using different tools. This implies that throughout this project, analyzing the data correctly and extracting meaningful results is more important than the approach.
+
